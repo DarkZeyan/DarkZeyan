@@ -4,6 +4,11 @@
 
 My GitHub account stores all the projects that I've done along all my school history.
 
+I have studied (and I'm studying) in these schools:
+
+* CBTis No.122 (Where I got my degree as Technical Programmer)
+* Instituto Tecnologico de Chihuahua II (Where I'm studying Systems Engineering) 
+
 Also I'm trying to implement personal projects.
 I'm hoping to get new knowledges and improve my programming skills.
 
@@ -29,7 +34,7 @@ using Stable Diffussion using Python. With these languages and skills am making 
 
 Hope you get interested in my repositories!
 
-!['zeyan sd icon'](https://i.imgur.com/R8YJCTn.png)
+!<p align="center"><img src="https://i.imgur.com/R8YJCTn.png" width="300"/></p>
 
 
 <!---
