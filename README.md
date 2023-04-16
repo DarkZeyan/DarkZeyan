@@ -34,7 +34,7 @@ using Stable Diffussion using Python. With these languages and skills am making 
 
 Hope you get interested in my repositories!
 
-<p align="center"><img src="https://i.imgur.com/R8YJCTn.png" width="200"/></p>
+<p align="center"><img src="./ZeyanApproves.png" width="200"/></p>
 
 
 <!---
