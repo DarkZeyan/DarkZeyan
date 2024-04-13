@@ -28,6 +28,10 @@ with frameworks as:
 
 * React
 * React Native
+* Angular
+* NextJS
+* Vue
+* Flutter
 
 But mostly I'm trying to create my own projects
 using Stable Diffussion using Python. With these languages and skills am making my way to be a great dev.
