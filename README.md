@@ -19,12 +19,12 @@ I've worked with programming languages such as the following ones:
 * [✅]C++
 * [✅]Python
 * [❎]PHP
+* [✅]Typescript
 
-With these programming languages I've been envolved
-with multiple enviroments as web, desktop apps and mobile apps.
+With these programming languages I've been envolved with multiple enviroments as web, desktop apps and mobile apps and thanks to the skills that I've gain from doing projects I'm working as a mid-time developer.
 
-Currently I'm very interested in applications
-with frameworks as:
+
+Currently I'm very interested in applications with frameworks as:
 
 * React
 * React Native
@@ -33,8 +33,10 @@ with frameworks as:
 * Vue
 * Flutter
 
-But mostly I'm trying to create my own projects
-using Stable Diffussion using Python. With these languages and skills am making my way to be a great dev.
+
+
+Lately I've been using Stable Diffussion using Python and trying to learn about neuronal networks. 
+With these languages and skills am making my way to be a great dev.
 
 Hope you get interested in my repositories!
 
