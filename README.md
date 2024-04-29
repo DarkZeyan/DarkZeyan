@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jorge+Bugarini;++;Jr.+Full-Stack+Developer,;Systems+Engineering+Student,;Currently+Working,;Active+Stable+Diffusion+Learner"></a>
 </p>
 
-## Hey there! I'm Zeyan, my name is Jorge and this is my GitHub repo
+## I'm Zeyan, my name is Jorge and this is my GitHub repo
 
 My GitHub account stores all the projects that I've done along all my school history.
 
