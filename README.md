@@ -38,6 +38,12 @@ I'm hoping to get new knowledges and improve my programming skills.
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Tools and Development Enviroments
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 With these programming languages I've been envolved with multiple enviroments as web, desktop apps and mobile apps and thanks to the skills that I've gain from doing projects I'm working as a mid-time developer.
 
 ### Frameworks
@@ -59,7 +65,7 @@ With these languages and skills am making my way to be a great dev.
 
 Hope you get interested in my repositories!
 
-<p align="center"><img src="./ZeyanApproves.png" width="200"/></p>
+<p align="center"><img src="./chibi.png" width="400"/></p>
 
 <!---
 DarkZeyan/DarkZeyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
