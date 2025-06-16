@@ -65,9 +65,11 @@ With these languages and skills am making my way to be a great dev.
 
 Hope you get interested in my repositories!
 
-<p align="center"><img src="./chibi.png" width="400"/></p>
+
 
 <!---
+
+<p align="center"><img src="./chibi.png" width="400"/></p>
 DarkZeyan/DarkZeyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
